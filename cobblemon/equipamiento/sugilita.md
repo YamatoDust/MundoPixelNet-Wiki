@@ -36,7 +36,7 @@ Consigue los siguientes objetos para poder empezar la mejora a Nivel II:
 
 | Objeto | Obtención |
 | - | - |
-| ![Resonance](../../images/cobblemon/equipamientos/sugilita/echo_ultracore.png) **Núcleo de Resonancia** | Cómpralo en `/warp esencias` por **3** ![Echo Shard](../../images/cobblemon/equipamientos/sugilita/echo_core.png) **Resonancias Contenidas**. |
+| ![Resonance](../../images/cobblemon/equipamientos/sugilita/echo_ultracore.png) **Núcleo de Resonancia** | Cómpralo en `/warp esencias` por **5** ![Echo Shard](../../images/cobblemon/equipamientos/sugilita/echo_core.png) **Resonancias Contenidas**. |
 | ![Sugilita](../../images/cobblemon/equipamientos/sugilita/sugilita_upgrade.png) **Mejora de Sugilita**  | Cómpralo en `/warp esencias` por **150 Esencias** y **10 Ojos de ender** |
 | ![Sugilita](../../images/cobblemon/equipamientos/sugilita/sugilita_pickaxe.png) **Pico de Sugilita II** _(con Túnel II)_ | *Explicado en la sección anterior* |
 
