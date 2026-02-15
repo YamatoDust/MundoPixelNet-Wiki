@@ -23,19 +23,23 @@ Consigue los siguientes objetos para poder empezar la mejora a Nivel II:
 
 | Objeto | Obtención |
 | - | - |
-| **Núcleo de Fragmento Resonante** | Cómpralo en `/warp esencias` por **10** ![Echo Shard](../../images/cobblemon/equipamientos/sugilita/echo_shard.png) **Fragmentos Resonantes**. |
+| ![Resonance](../../images/cobblemon/equipamientos/sugilita/echo_core.png) **Resonancia Contenida** | Cómpralo en `/warp esencias` por **10** ![Echo Shard](../../images/cobblemon/equipamientos/sugilita/echo_shard.png) **Fragmentos Resonantes**. |
 | ![Sugilita](../../images/cobblemon/equipamientos/sugilita/sugilita_upgrade.png) **Mejora de Sugilita**  | Cómpralo en `/warp esencias` por **150 Esencias** y **10 Ojos de ender** |
 | ![Sugilita](../../images/cobblemon/equipamientos/sugilita/sugilita_pickaxe.png) **Pico de Sugilita** _(con Túnel I)_ | ![Crafteo](../../images/cobblemon/equipamientos/sugilita/crafteo_pico.png) |
 
-Una vez obtenido los objetos, aplícalos en una Mesa de Herrería para crear el **Pico de Sugilita II** _(con Túnel II)_.
+Una vez obtenido los objetos, aplícalos en una Mesa de Herrería para crear el **Pico de Sugilita II** _(con Túnel II)_:
+
+![](../../images/cobblemon/equipamientos/sugilita/crafteo_pico2.png)
 
 ## Mejora a Nivel III
 Consigue los siguientes objetos para poder empezar la mejora a Nivel II:
 
 | Objeto | Obtención |
 | - | - |
-| **Ultra-Núcleo de Fragmento Resonante** | Cómpralo en `/warp esencias` por **3** ![Echo Shard](../../images/cobblemon/equipamientos/sugilita/echo_shard.png) **Núcleos de Fragmento Resonante**. |
+| ![Resonance](../../images/cobblemon/equipamientos/sugilita/echo_ultracore.png) **Núcleo de Resonancia** | Cómpralo en `/warp esencias` por **3** ![Echo Shard](../../images/cobblemon/equipamientos/sugilita/echo_core.png) **Resonancias Contenidas**. |
 | ![Sugilita](../../images/cobblemon/equipamientos/sugilita/sugilita_upgrade.png) **Mejora de Sugilita**  | Cómpralo en `/warp esencias` por **150 Esencias** y **10 Ojos de ender** |
 | ![Sugilita](../../images/cobblemon/equipamientos/sugilita/sugilita_pickaxe.png) **Pico de Sugilita II** _(con Túnel II)_ | *Explicado en la sección anterior* |
 
 Una vez obtenido los objetos, aplícalos en una Mesa de Herrería para crear el **Pico de Sugilita III** _(con Túnel III)_. <u>Esta es la última mejora posible.</u>
+
+![](../../images/cobblemon/equipamientos/sugilita/crafteo_pico3.png)
