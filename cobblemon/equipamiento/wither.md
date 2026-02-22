@@ -4,6 +4,10 @@ Fabricar el Set de Armadura de Wither da el siguiente efecto al equiparse el Pet
 
 * **Cuerpo ignífugo II permanente**
 
+{% hint style="warning" %}
+Al aplicar las Mejoras del Set **se perderán los encantamientos que tuviera la herramienta/armadura original.** Por ello, es recomendable usar herramientas/armaduras nuevas a la hora de crear estos Sets.
+{% endhint %}
+
 | Objeto                                                                          | Fabricación del objeto                                                            | Extras                                                                                                                                        |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Wither](../../images/cobblemon/equipamientos/wither/wither_upgrade.png) **Mejora de Wither**  | Cómpralo en `/warp esencias` por **150 Esencias** y **5 Calaveras de Wither** |                                                                                                                                               |

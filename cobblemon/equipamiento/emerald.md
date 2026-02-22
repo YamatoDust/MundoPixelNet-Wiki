@@ -4,6 +4,10 @@ Fabricar el Set de Armadura de Esmeralda da el siguiente efecto al equiparse el 
 
 * **Velocidad I permanente**
 
+{% hint style="warning" %}
+Al aplicar las Mejoras del Set **se perderán los encantamientos que tuviera la herramienta/armadura original.** Por ello, es recomendable usar herramientas/armaduras nuevas a la hora de crear estos Sets.
+{% endhint %}
+
 | Objeto                                                                           | Fabricación del objeto                                                | Extras                                                                                                                                |
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Esmeralda](../../.gitbook/assets/emerald_upgrade.png) **Mejora de Esmeralda**  | Cómpralo en `/warp esencias` por **150 Esencias** y **10 Esmeraldas** |                                                                                                                                       |

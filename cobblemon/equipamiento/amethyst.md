@@ -4,6 +4,10 @@ Fabricar el Set de Armadura de Amatista da el siguiente efecto al equiparse el P
 
 * **Visión noctuna permanente**
 
+{% hint style="warning" %}
+Al aplicar las Mejoras del Set **se perderán los encantamientos que tuviera la herramienta/armadura original.** Por ello, es recomendable usar herramientas/armaduras nuevas a la hora de crear estos Sets.
+{% endhint %}
+
 | Objeto                                                                          | Fabricación del objeto                                                            | Extras                                                                                                                                        |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Amatista](../../.gitbook/assets/amethyst_upgrade.png) **Mejora de Amatista**  | Cómpralo en `/warp esencias` por **150 Esencias** y **10 Fragmentos de Amatista** |                                                                                                                                               |

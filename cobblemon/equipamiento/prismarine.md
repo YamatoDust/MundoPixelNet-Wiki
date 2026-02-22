@@ -4,6 +4,10 @@ Fabricar el Set de Armadura de Prismarina da el siguiente efecto al equiparse el
 
 * **Apnea II permanente**
 
+{% hint style="warning" %}
+Al aplicar las Mejoras del Set **se perderán los encantamientos que tuviera la herramienta/armadura original.** Por ello, es recomendable usar herramientas/armaduras nuevas a la hora de crear estos Sets.
+{% endhint %}
+
 | Objeto                                                                                | Fabricación del objeto                                                              | Extras                                                                                                                  |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | ![Prismarina](../../.gitbook/assets/prismarine_upgrade.png) **Mejora de Prismarina**  | Cómpralo en `/warp esencias` por **150 Esencias** y **10 Fragmentos de Prismarina** |                                                                                                                         |
