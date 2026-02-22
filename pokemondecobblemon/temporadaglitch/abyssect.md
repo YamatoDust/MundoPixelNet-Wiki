@@ -18,7 +18,6 @@ Abyssect es un atacante físico extremadamente rápido con un total de **600** p
 | Velocidad | 123 |
 | **Total** | **600** |
 
-* **Puntos de Esfuerzo (EVs):** +2 Ataque, +1 Velocidad.
 * **Ratio de Género:** 35% Macho / 65% Hembra.
 * **Ratio de Captura:** 15.
 
