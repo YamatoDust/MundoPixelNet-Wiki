@@ -1,12 +1,12 @@
 # 🪄 Temporada 1
 
-La Temporada Mística _(Temporada 1)_ de Universo PokéNet trae una temática de magia, relatos míticos, fantasía.
+La Temporada Glitch _(Temporada 1)_ de Universo PokéNet trae una temática de videojuegos, arcade y personajes.
 
 ### 📺 Tráiler de la temporada mística
 
-{% embed url="https://youtu.be/yCJR9pt7QKY?si=3gwyDbOSb7cBmYZX" %}
+{% embed url="https://youtu.be/OiHVYHyMmEo?si=jNoApPq1jhMJeexY" %}
 
-Esta Temporada introduce los [**Pokémon Híbridos**](../../funciones/hibridos.md). Al igual que varios Pokémon del Pase de Temporada, Gatchas, Misiones y más.
+Esta Temporada se introduce [**Pokémon Abyssect**](../../funciones/hibridos.md). Al igual que varios Pokémon del Pase de Temporada, Gatchas, Misiones y más.
 
 ### 📲 Pokémon
 
