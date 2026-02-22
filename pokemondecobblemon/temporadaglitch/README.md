@@ -6,7 +6,7 @@ La Temporada Glitch _(Temporada 1)_ de Universo PokéNet trae una temática de v
 
 {% embed url="https://youtu.be/OiHVYHyMmEo?si=jNoApPq1jhMJeexY" %}
 
-Esta Temporada se introduce [**Pokémon Abyssect**](../../funciones/hibridos.md). Al igual que varios Pokémon del Pase de Temporada, Gatchas, Misiones y más.
+Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.md). Al igual que varios Pokémon del Pase de Temporada, Gatchas, Misiones y más.
 
 ### 📲 Pokémon
 
