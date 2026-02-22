@@ -43,7 +43,7 @@ Abyssect es un atacante físico extremadamente rápido con un total de **600** p
 | 36 | Slash (Cuchillada) | Normal |
 | 42 | First Impression (Escaramuza) | Bicho |
 | 48 | Dragon Claw (Garra Dragón) | Dragón |
-| 52 | **Abyssrend** | ??? |
+| 52 | **Abyssrend** | Dragón |
 | 58 | Outrage (Enfado) | Dragón |
 
 > **Movimientos de Huevo:** Lunge, Night Slash, Sucker Punch, Sticky Web, Dragon Rush.
