@@ -21,13 +21,13 @@ Evolucionado desde tiempos remotos por una voluntad superior. Es una anomalía t
 
 | Estadística | Valor |
 | :---: | :---: |
-| PS | 70 |
-| Ataque | 125 |
-| Defensa | 60 |
-| At. esp | 80 |
-| Def. esp | 75 |
-| Velocidad | 110 |
-| **Total** | **541** |
+| PS | 107 |
+| Ataque | 135 |
+| Defensa | 80 |
+| At. esp | 70 |
+| Def. esp | 85 |
+| Velocidad | 123 |
+| **Total** | **600** |
 
 ### Movimientos
 
