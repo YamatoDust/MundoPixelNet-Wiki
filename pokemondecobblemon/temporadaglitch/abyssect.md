@@ -6,7 +6,7 @@
 
 **Abyssect** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_siniestro)/[Dragón](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada Glitch]. Es un atacante físico extremadamente rápido con un total de **600** puntos de estadísticas base.
 
-| **Artwork** | ![Artwork de abyssect](../images/pokemon/temporadaglitch/imagen.png) |
+| **Artwork** | ![Artwork de abyssect](../../images/pokemon/temporadaglitch/imagen.png) |
 | :---: | :--- |
 | **Tipos** | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
 | **Habilidades** | [Defiant](https://www.wikidex.net/wiki/Competitivo)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
