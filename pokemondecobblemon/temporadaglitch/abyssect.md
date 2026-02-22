@@ -8,7 +8,7 @@
 
 | **Artwork** | ![Artwork de abyssect](../../images/pokemon/temporadaglitch/image.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
+| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo dragon](../../images/pokemon/tipos/tipo_dragon.png) |
 | **Habilidades** | [Defiant](https://www.wikidex.net/wiki/Competitivo)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Sharpness](https://www.wikidex.net/wiki/Cortante) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
