@@ -26,7 +26,7 @@ Abyssect es un atacante físico extremadamente rápido con un total de **600** p
 ### 🧬 Habilidades
 * **Enjambre (Swarm):** Potencia movimientos tipo bicho en apuros.
 * **Intimidación (Intimidate):** Baja el ataque del rival al entrar.
-* **Abyssalcore (H):** Habilidad oculta especial.
+* **Abyssalcore (H):** Su núcleo emana energía que potencia instintos biológicos. Aumenta el poder de movimientos tipo Bicho y Dragón.
 
 ---
 
