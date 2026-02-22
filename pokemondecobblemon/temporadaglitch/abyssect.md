@@ -12,7 +12,6 @@
 | **Habilidades** | [Defiant](https://www.wikidex.net/wiki/Competitivo)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
 | **Hab. oculta** | [Sharpness](https://www.wikidex.net/wiki/Cortante) |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
-| **Evoluciona de** | Chryseil (Nivel 32, Hembra) |
 | **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
