@@ -15,7 +15,7 @@
 | **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
-Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más alta y esbelta, Silkorn ha refinado la fusión, utilizando el Vacío solo como núcleo de poder mientras teje la Seda en una armadura ligera y flexible que permite una agilidad acrobática. Armada con una 'aguja' quitinosa, Silkorn no solo usa la seda; la comanda, lanzando hilos para moverse y atacar. No es un espectro silencioso, sino una bailarina orgullosa, una protectora de su territorio que danza en la oscuridad.
+Evolucionado desde tiempos remotos por una voluntad superior. Es una anomalía tan brutal que ni su progenitor puede someterla. Aunque nació vinculado a una mente de colmena, su ferocidad lo volvió un ser rebelde. No teme a ningún ser vivo; su único pavor es aquel que lo tejió
 
 ### Características base
 
