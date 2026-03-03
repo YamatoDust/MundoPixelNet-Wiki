@@ -1,6 +1,6 @@
 # 🐉 Abyssect #2006
 
-## Abyssect (Nº ????) - Forma Macho
+## Abyssect - Forma Macho
 
 ### Información
 
