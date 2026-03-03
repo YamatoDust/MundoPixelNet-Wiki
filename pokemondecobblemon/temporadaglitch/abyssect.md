@@ -11,7 +11,7 @@
 | **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo dragon](../../images/pokemon/tipos/tipo_dragon.png) |
 | **Habilidades** | [Intimidate](https://www.wikidex.net/wiki/Intimidación)<br>[Unburden](https://www.wikidex.net/wiki/Enjambre) |
 | **Hab. oculta** | [Abyssal Core]() |
-| **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
+| **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Dragón](https://www.wikidex.net/wiki/Grupo_dragon) |
 | **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
