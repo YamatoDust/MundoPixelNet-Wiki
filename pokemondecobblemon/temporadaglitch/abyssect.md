@@ -9,8 +9,8 @@
 | **Artwork** | ![Artwork de abyssect](../../images/pokemon/temporadaglitch/image.png) |
 | :---: | :--- |
 | **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo dragon](../../images/pokemon/tipos/tipo_dragon.png) |
-| **Habilidades** | [Intimidate](https://www.wikidex.net/wiki/Intimidación)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
-| **Hab. oculta** | [Swarm](https://www.wikidex.net/wiki/Enjambre) |
+| **Habilidades** | [Intimidate](https://www.wikidex.net/wiki/Intimidación)<br>[Unburden](https://www.wikidex.net/wiki/Enjambre) |
+| **Hab. oculta** | [Abyssal Core]() |
 | **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
 | **Creado por** | FuriadaNoite |
 
