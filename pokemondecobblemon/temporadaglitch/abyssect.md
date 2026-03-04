@@ -1,4 +1,4 @@
-# 🐉 Abyssect #2006
+# 🐉 Abyssect 
 
 ## Abyssect - Forma Macho
 
