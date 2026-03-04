@@ -4,4 +4,5 @@ En [Universo PokéNet](**/README.md) tenemos Pokémon originales con sus propios
 
 | Número |  Pokémon | 
 | :---: | :-------: | 
-| **1** | [Silkorn y Verskorn](../pokemondecobblemon/hollownest/README.md) |       
+| **1** | [Verskorn](../pokemondecobblemon/hollownest/README.md) | 
+| **2** | [Silkorn](../pokemondecobblemon/hollownest/README.md) |
