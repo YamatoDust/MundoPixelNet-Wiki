@@ -41,7 +41,6 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
-| ![Skin de JuniorCX](../images/Rangos/Mod/JuniorCX.png)|**Juniorcx**|
 | ![Skin de Trolendo](../images/Rangos/Dev/Steve.png)|**Trolendo**|
 | ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
 | ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
