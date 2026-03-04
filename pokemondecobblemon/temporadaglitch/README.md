@@ -12,7 +12,7 @@ Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.
 
 | 🧬 Hibridos |
 | :------: |
-| [🧬 Cerullade](hibrido-cerullade.md) ![Sprite de Cerullade](../../images/pokemon/temporada-1/Cerullade-sprite.png)|
+| [🧬 Abyssect](abyssect.md) ![Sprite de abyssect](../../images/pokemon/temporada-1/Cerullade-sprite.png)|
 | [🧬 Gardewile](hibrido-gardewile.md) ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)|
 | [🧬 Lycario](hibrido-lycario.md) ![Sprite de Lycario](../../images/pokemon/temporada-1/Lycario-sprite.png)|
 | [🧬 Mismapeon](hibrido-mismapeon.md) ![Sprite de Mismapeon](../../images/pokemon/temporada-1/Mismapeon-sprite.png)|
