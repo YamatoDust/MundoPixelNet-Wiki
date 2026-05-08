@@ -20,14 +20,16 @@ El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para ma
 | ![Skin de Gametito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
 | ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png)|**Juniorcx**|
 | ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
+| ![Skin de teyu_31](../images/Rangos/Helper/Teyu_31.png)|**teyu_31**|
 
 # ![Helper](../images/Rangos/Helper/helperarc.png) **Helper**
 El rango Helper tiene la función de ayudar con dudas y responder preguntas para mantener la mejor jugabilidad del usuario.
 | Skin | Usuario |
 | :--: | :-----: |
-| ![Skin de teyu_31](../images/Rangos/Helper/Teyu_31.png)|**teyu_31**|
+| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**Trolendo**|
 | ![Skin de Cheego02](../images/Rangos/Helper/chego.png)|**Cheego02**|
 | ![Skin de Azumi19](../images/Rangos/Helper/azumi2.png)|**Azumi19**|
+| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**Ikaros_YT**|
 
 # ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
 El rango Developer tiene la función de programar los complementos y bots del servidor, haciéndolo aún más único y original.
