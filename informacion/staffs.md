@@ -48,5 +48,5 @@ El rango Builder tiene la función de construir los mapas del servidor, ya sea p
 | ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
 | ![Skin de Mai_075](../images/Rangos/Builder/Mai_075.png)|**Mai_075**|
 | ![Skin de Arii](../images/Rangos/Builder/ari.png)|**Arii**|
-| ![Skin de Dainichi](../images/Rangos/Builder/danichi.png)|**Dainichi**|
+| ![Skin de Dainichi](../images/Rangos/Builder/Danichi.png)|**Dainichi**|
 
