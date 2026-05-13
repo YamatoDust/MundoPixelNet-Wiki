@@ -2,7 +2,7 @@
 
 La Temporada Glitch _(Temporada 1)_ de Universo PokéNet trae una temática de videojuegos, arcade y personajes.
 
-### 📺 Tráiler de la temporada mística
+### 📺 Tráiler de la temporada glitch
 
 {% embed url="https://youtu.be/JpOdk9oiMMQ?si=VbnS1jIH1_n3gvSF" %}
 
