@@ -2,7 +2,7 @@
 
 ## Información
 
-**Gardevoir Zelda** es una Skin exclusiva del servidor introducida en la [Temporada Glitch (1)](./).
+**Gardevoir Zelda** es una Skin exclusiva del servidor introducida en la [Temporada Glitch 👾 (1)](./).
 
 | **Artwork** | ![Artwork de gardevoir zelda](../../images/pokemon/temporadaglitch/gardevoir_zelda.png) |
 | :---: | :--- |
@@ -20,4 +20,4 @@ La creación de esta skin está basada en la famosa personaje de la saga **The L
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 100 del [pase premium](https://tienda.mundopixelnet.com/category/servidor-escarlata-3) de la Temporada Glitch.
+Esta skin se puede obtener en el nivel 100 del [pase premium](https://tienda.mundopixelnet.com/category/servidor-escarlata-3) de la Temporada Glitch 👾
