@@ -74,7 +74,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 
 **Mega-Abyssect** es la forma potenciada de Abyssect. Su peso aumenta considerablemente a 120.0 kg y su escala visual crece para imponer su dominio en combate.
 
-| **Artwork** | ![Artwork de Mega-Abyssect](../../images/pokemon/custom/abyssect_mega.png) |
+| **Artwork** | ![Artwork de Mega-Abyssect](../../images/pokemon/temporadaglitch/2.png) |
 | :---: | :--- |
 | **Tipos** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | **Habilidad** | **Abyssalcore** |
