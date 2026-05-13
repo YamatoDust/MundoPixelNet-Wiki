@@ -60,3 +60,44 @@ Evolucionado desde tiempos remotos por una voluntad superior. Es una anomalía t
 | [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_Hierro) | ![Tipo acero](../../images/pokemon/tipos/tipo_acero.png) | [Throat Chop](https://www.wikidex.net/wiki/Golpe_Bajo) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Laser Focus](https://www.wikidex.net/wiki/Foco_Resplandor) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 {% endtab %}
 {% endtabs %}
+
+# 🧬 Mega-Abyssect #2006
+
+> **Tipo:** `DRAGÓN` / `BICHO`
+> **Forma:** Megaevolución
+
+![Imagen de Mega-Abyssect](URL_DE_TU_IMAGEN_AQUÍ)
+
+### 📊 Estadísticas Base (Mega)
+Al megaevolucionar, Abyssect alcanza un poder devastador con un total de **700** puntos de estadísticas base, destacando su aumento masivo en **Ataque** y **Velocidad**.
+
+| Stat | Valor | Barra de Progreso (Visual) |
+| :--- | :---: | :--- |
+| **HP** | **107** | ████████░░░░░░ |
+| **Ataque** | **165** | ████████████░░ |
+| **Defensa** | **100** | ███████░░░░░░░ |
+| **At. Especial** | **90** | ██████░░░░░░░░ |
+| **Def. Especial** | **95** | ███████░░░░░░░ |
+| **Velocidad** | **143** | ███████████░░░ |
+| **TOTAL** | **700** | |
+
+---
+
+### 🧬 Cambios en la Megaevolución
+* **Habilidad Única:**
+    * **Abyssalcore:** Al megaevolucionar, Abyssect canaliza todo su poder a través de su núcleo abisal.
+* **Dimensiones Incrementadas:**
+    * **Peso:** Aumenta a 120.0 kg.
+    * **Escala:** Su tamaño visual aumenta (Base Scale: 1.4).
+* **Labels:** Gen6, Mega.
+
+---
+
+### ⚔️ Información de Combate
+* **Condición:** Esta forma solo se activa mediante la mecánica de **Megaevolución** en combate (requiere la megapiedra correspondiente).
+* **Rol:** Mega-Sweeper Físico. Con 143 de velocidad base, supera a la gran mayoría de amenazas del metajuego, permitiéndole golpear con sus 165 de ataque antes de que el rival pueda reaccionar.
+
+---
+
+### 📜 Descripción de la Pokédex
+> "La energía de la megaevolución ha sobrecargado su núcleo, otorgándole una fuerza física capaz de desgarrar dimensiones, aunque su naturaleza bicho se vuelve más errática y agresiva."
