@@ -23,15 +23,15 @@ Abyssect: Una manifestación de poder antiguo que combina la ferocidad de los dr
 
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Abyssect son las siguientes:
 
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 107 |
-| Ataque | 135 |
-| Defensa | 80 |
-| At. esp | 70 |
-| Def. esp | 85 |
-| Velocidad | 123 |
-| **Total** | **600** |
+| Stat | Valor | Barra de Progreso (Visual) |
+| :--- | :---: | :--- |
+| **HP** | **107** | ████████░░░░░░ |
+| **Ataque** | **135** | ██████████░░░░ |
+| **Defensa** | **80** | ██████░░░░░░░░ |
+| **At. Especial** | **70** | █████░░░░░░░░░ |
+| **Def. Especial** | **85** | ██████░░░░░░░░ |
+| **Velocidad** | **123** | █████████░░░░░ |
+| **TOTAL** | **600** | |
 
 ### Movimientos
 
@@ -88,15 +88,15 @@ Mega-Abyssect: La energía de la megaevolución ha sobrecargado su núcleo abisa
 
 Tras la megaevolución, sus [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) aumentan significativamente:
 
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 107 |
-| Ataque | 165 |
-| Defensa | 100 |
-| At. esp | 90 |
-| Def. esp | 95 |
-| Velocidad | 143 |
-| **Total** | **700** |
+| Stat | Valor | Barra de Progreso (Visual) |
+| :--- | :---: | :--- |
+| **HP** | **107** | ████████░░░░░░ |
+| **Ataque** | **165** | ████████████░░ |
+| **Defensa** | **100** | ███████░░░░░░░ |
+| **At. Especial** | **90** | ██████░░░░░░░░ |
+| **Def. Especial** | **95** | ███████░░░░░░░ |
+| **Velocidad** | **143** | ███████████░░░ |
+| **TOTAL** | **700** | |
 
 ### Movimientos
 
