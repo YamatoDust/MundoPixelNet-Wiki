@@ -90,15 +90,15 @@ Mega-Abyssect: La energía de la megaevolución ha sobrecargado su núcleo abisa
 
 Tras la megaevolución, sus [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) aumentan significativamente:
 
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 107 |
-| Ataque | 165 |
-| Defensa | 100 |
-| At. esp | 90 |
-| Def. esp | 95 |
-| Velocidad | 143 |
-| **Total** | **700** |
+| Stat | Valor | Barra de Progreso (Visual) |
+| :--- | :---: | :--- |
+| **HP** | **107** | ████████░░░░░░ |
+| **Ataque** | **165** | ████████████░░ |
+| **Defensa** | **100** | ███████░░░░░░░ |
+| **At. Especial** | **90** | ██████░░░░░░░░ |
+| **Def. Especial** | **95** | ███████░░░░░░░ |
+| **Velocidad** | **143** | ███████████░░░ |
+| **TOTAL** | **700** | |
 
 ### Movimientos
 
