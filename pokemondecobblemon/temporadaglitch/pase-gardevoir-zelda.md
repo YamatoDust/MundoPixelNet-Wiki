@@ -4,9 +4,9 @@
 
 **Gardevoir Zelda** es una Skin exclusiva del servidor introducida en la [Temporada Glitch (1)](./).
 
-| **Artwork** | ![Artwork de gardevoir zelda](../../images/pokemon/temporadaglitch/abyssect.png) |
+| **Artwork** | ![Artwork de gardevoir zelda](../../images/pokemon/temporadaglitch/gardevoir_zelda.png) |
 | :---: | :--- |
-| **** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| **Creado Por** | FuriadaNoite |
 
 
 ### Comentario del desarrollador
