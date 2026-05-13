@@ -14,7 +14,7 @@
 | **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Intimidate](https://www.wikidex.net/wiki/Intimidación) |
 | **Hab. oculta** | **Abyssalcore** (Custom) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) / [Dragón](https://www.wikidex.net/wiki/Tipo_dragón) |
-| **Creado por** | xFuriadanoitex |
+| **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
 Abyssect: Una manifestación de poder antiguo que combina la ferocidad de los dragones con la adaptabilidad de los insectos. Su núcleo abisal pulsa con una energía oscura que le permite ejecutar movimientos rápidos y letales, siendo una de las criaturas más temidas de su hábitat.
@@ -79,7 +79,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **Habilidad** | **Abyssalcore** (Custom) |
 | **Hab. oculta** | **Abyssalcore** (Custom) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) / [Dragón](https://www.wikidex.net/wiki/Tipo_dragón) |
-| **Creado por** | xFuriadanoitex |
+| **Creado por** | FuriadaNoite |
 
 ### Descripción (Lore)
 Mega-Abyssect: La energía de la megaevolución ha sobrecargado su núcleo abisal, otorgándole una fuerza física capaz de desgarrar dimensiones. Su armadura de quitina se refuerza y sus alas vibran a una frecuencia que intimida a cualquier oponente, convirtiéndolo en el máximo exponente de su línea evolutiva.
