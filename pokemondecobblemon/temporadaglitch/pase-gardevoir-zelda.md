@@ -20,4 +20,4 @@ La creación de esta skin está basada en la famosa personaje de la saga **The L
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 100 del [pase premium](https://tienda.mundopixelnet.com/category/servidor-escarlata-3) de la temporada 1.
+Esta skin se puede obtener en el nivel 100 del [pase premium](https://tienda.mundopixelnet.com/category/servidor-escarlata-3) de la Temporada Glitch.
