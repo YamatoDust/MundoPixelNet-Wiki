@@ -4,8 +4,7 @@
 
 **Gardevoir Zelda** es una Skin exclusiva del servidor introducida en la [Temporada Glitch (1)](./).
 
-|                     **Artwork** | ![Artwork de Meloetta Faerie](../../images/pokemon/temporada-1/Faerie.png)                                                                                    |
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |                                                                                                         |
+|                     **Artwork** | ![Artwork de Meloetta Faerie](../../images/pokemon/temporada-1/Faerie.png)                                                                                    |                                                                                              |
 |                      Creado por | FuriadaNoite y BonMurci                                                                                                                |
 
 
