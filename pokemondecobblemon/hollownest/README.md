@@ -79,8 +79,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **Habilidad** | **Abyssalcore** |
 | **Hab. oculta** | **Abyssalcore** |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) / [Dragón](https://www.wikidex.net/wiki/Tipo_dragón) |
-| **Evoluciona de** | Abyssect (Megaevolución) |
-| **Creado por** | Universo Pokénet |
+| **Creado por** | xFuriadenoitex |
 
 ### Descripción (Lore)
 Mega-Abyssect: La energía de la megaevolución ha sobrecargado su núcleo abisal, otorgándole una fuerza física capaz de desgarrar dimensiones. Su armadura de quitina se refuerza y sus alas vibran a una frecuencia que intimida a cualquier oponente, convirtiéndolo en el máximo exponente de su línea evolutiva.
