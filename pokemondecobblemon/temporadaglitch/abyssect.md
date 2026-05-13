@@ -116,4 +116,3 @@ Tras la megaevolución, sus [características base](https://www.wikidex.net/wiki
 
 ### 📜 Descripción de la Pokédex
 > "La energía de la megaevolución ha sobrecargado su núcleo, otorgándole una fuerza física capaz de desgarrar dimensiones, aunque su naturaleza bicho se vuelve más errática y agresiva."
----
