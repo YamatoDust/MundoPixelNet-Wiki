@@ -6,7 +6,7 @@
 
 | **Artwork** | ![Artwork de gardevoir zelda](../../images/pokemon/temporadaglitch/abyssect.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| **** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 
 
 ### Comentario del desarrollador
