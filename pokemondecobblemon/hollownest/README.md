@@ -8,7 +8,7 @@
 
 **Abyssect** es un Pokémon de tipo [dragón](https://www.wikidex.net/wiki/Tipo_dragón)/[bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada Gen X]. Es conocido por ser un depredador implacable en el servidor Universo Pokénet.
 
-| **Artwork** | ![Artwork de Abyssect](../../images/pokemon/custom/abyssect.png) |
+| **Artwork** | ![Artwork de Abyssect](../../images/pokemon/temporadaglitch/abyssect.png) |
 | :---: | :--- |
 | **Tipos** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Intimidate](https://www.wikidex.net/wiki/Intimidación) |
