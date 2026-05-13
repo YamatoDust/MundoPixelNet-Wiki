@@ -10,7 +10,7 @@ Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.
 
 ### 📲 Pokémon
 
-| 📲 Pokédex |
+| 📲 Pokémon |
 | :------: |
 | [Abyssect](abyssect.md) |
 | [Rotom GameBoy](hibrido-gardewile.md) ![Sprite de Gardewile](../../images/pokemon/temporada-1/Gardewile-sprite.png)|
