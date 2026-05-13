@@ -10,7 +10,7 @@
 
 
 ### Comentario del desarrollador
-La creación de esta skin está basada en las hadas y también en el nuevo bioma místico.
+La creación de esta skin está basada en la famosa personaje de la saga **The Legend Of Zelda.**
 
 {% hint style="info" %} Esta skin, al igual que la versión original, puede cambiar de forma mediante el movimiento Canto arcaico.{% endhint %}
 
