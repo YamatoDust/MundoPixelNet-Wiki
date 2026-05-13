@@ -1,4 +1,4 @@
-# 👾 Temporada Glitch [1]
+# 👾 Temporada 1 [Glitch]
 
 La Temporada Glitch _(Temporada 1)_ de Universo PokéNet trae una temática de videojuegos, arcade y personajes.
 
