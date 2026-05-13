@@ -24,15 +24,15 @@ Abyssect: Una manifestación de poder antiguo que combina la ferocidad de los dr
 
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Abyssect son las siguientes:
 
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 107 |
-| Ataque | 135 |
-| Defensa | 80 |
-| At. esp | 70 |
-| Def. esp | 85 |
-| Velocidad | 123 |
-| **Total** | **600** |
+| Stat | Valor | Barra de Progreso (Visual) |
+| :--- | :---: | :--- |
+| **HP** | **107** | ████████░░░░░░ |
+| **Ataque** | **135** | ██████████░░░░ |
+| **Defensa** | **80** | ██████░░░░░░░░ |
+| **At. Especial** | **70** | █████░░░░░░░░░ |
+| **Def. Especial** | **85** | ██████░░░░░░░░ |
+| **Velocidad** | **123** | █████████░░░░░ |
+| **TOTAL** | **600** | |
 
 ### Movimientos
 
