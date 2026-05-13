@@ -19,9 +19,9 @@ Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.
 
   | 🥈 Gratis | 🥇 Premium |
   | :----: | :----: |
-  | [🥈 Milotic Primordial](pase-milotic-primordial.md) ![Sprite de Milotic Primordial](../../images/pokemon/temporada-1/Primordial1-sprite.png) | [🥇 Tsareena Estacional](pase-tsareena-estacional.md)  |
-  | [🥈 Braviary Fénix](pase-braviary-fenix.md) ![Sprite de Braviary Fénix](../../images/pokemon/temporada-1/Fenix-sprite.png) | [🥇 Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) |
-  |[🥈 Silvally Grifo](pase-silvally-grifo.md)|
+  | [🥈 Milotic Primordial](pase-milotic-primordial.md) | [🥇 Tsareena Estacional](pase-tsareena-estacional.md)  |
+  | [🥈 Braviary Fénix](pase-braviary-fenix.md) | [🥇 Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) |
+  |[🥈 Silvally Grifo](pase-silvally-grifo.md) | [🥇 Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) |
 
 ### 🗝️ Skins del Gatcha
 
