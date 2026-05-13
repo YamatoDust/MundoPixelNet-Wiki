@@ -12,10 +12,9 @@
 | :---: | :--- |
 | **Tipos** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Intimidate](https://www.wikidex.net/wiki/Intimidación) |
-| **Hab. oculta** | **Abyssalcore** |
+| **Hab. oculta** | **Abyssalcore** (Custom) |
 | **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) / [Dragón](https://www.wikidex.net/wiki/Tipo_dragón) |
-| **Evoluciona a** | Mega-Abyssect (Megaevolución) |
-| **Creado por** | Universo Pokénet |
+| **Creado por** | xFuriadanoitex |
 
 ### Descripción (Lore)
 Abyssect: Una manifestación de poder antiguo que combina la ferocidad de los dragones con la adaptabilidad de los insectos. Su núcleo abisal pulsa con una energía oscura que le permite ejecutar movimientos rápidos y letales, siendo una de las criaturas más temidas de su hábitat.
