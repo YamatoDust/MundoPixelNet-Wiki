@@ -1,6 +1,6 @@
 # 🐉 Abyssect 
 
-## Abyssect - Forma Macho
+## Abyssect
 
 ### Información
 
