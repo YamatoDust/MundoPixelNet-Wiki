@@ -1,238 +1,115 @@
-# 🐛 Línea Evolutiva: Silkorn y verskorn
+# 🐉 Línea Evolutiva: Abyssect
 
 ---
 
-## 1. Glowmite (Nº 2001)
+## 1. Abyssect (Nº 2006)
 
 ### Información
 
-**Glowmite** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[Siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la [Temporada Inicial]. Es la fase larval de la línea evolutiva.
+**Abyssect** es un Pokémon de tipo [dragón](https://www.wikidex.net/wiki/Tipo_dragón)/[bicho](https://www.wikidex.net/wiki/Tipo_bicho) introducido en la [Temporada Gen X]. Es conocido por ser un depredador implacable en el servidor Universo Pokénet.
 
-| **Artwork** | ![Artwork de Glowmite](../../images/pokemon/hollownest/image.png) |
+| **Artwork** | ![Artwork de Abyssect](../../images/pokemon/custom/abyssect.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
-| **Hab. oculta** | [Steadfast](https://www.wikidex.net/wiki/Impasible) |
-| **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) |
-| **Evoluciona a** | Chryseil (Nivel 12) |
-| **Creado por** | FuriadaNoite |
+| **Tipos** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| **Habilidades** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Intimidate](https://www.wikidex.net/wiki/Intimidación) |
+| **Hab. oculta** | **Abyssalcore** |
+| **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) / [Dragón](https://www.wikidex.net/wiki/Tipo_dragón) |
+| **Evoluciona a** | Mega-Abyssect (Megaevolución) |
+| **Creado por** | Universo Pokénet |
 
 ### Descripción (Lore)
-Glowmite: La primera y más elemental de estas manifestaciones, se cree que es una fase larval o una forma rudimentaria del Vacío. Su brillo tenue en la oscuridad, lejos de ser una guía, parece ser una pulsación de su propia esencia, una llamada silenciosa desde las profundidades.
+Abyssect: Una manifestación de poder antiguo que combina la ferocidad de los dragones con la adaptabilidad de los insectos. Su núcleo abisal pulsa con una energía oscura que le permite ejecutar movimientos rápidos y letales, siendo una de las criaturas más temidas de su hábitat.
 
 ### Características base
 
-Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Glowmite son las siguientes:
+Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Abyssect son las siguientes:
 
 | Estadística | Valor |
 | :---: | :---: |
-| PS | 30 |
-| Ataque | 25 |
-| Defensa | 30 |
-| At. esp | 40 |
-| Def. esp | 25 |
-| Velocidad | 50 |
-| **Total** | **202** |
-
-### Movimientos
-
-{% tabs %}
-{% tab title="Por nivel" %}
-| Nivel | Movimiento | Tipo |
-| :---: | :---: | :---: |
-| 1 | [Astonish](https://www.wikidex.net/wiki/Impresionar) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 1 | [Tackle](https://www.wikidex.net/wiki/Placaje) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 2 | [String Shot](https://www.wikidex.net/wiki/Disparo_demora) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| 5 | [Leech Life](https://www.wikidex.net/wiki/Chupavidas) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| 7 | [Harden](https://www.wikidex.net/wiki/Fortaleza) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 10 | [Bug Bite](https://www.wikidex.net/wiki/Picadura) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-{% endtab %}
-
-{% tab title="MTs y Tutor" %}
-| Movimiento | Tipo | Movimiento | Tipo |
-| :---: | :---: | :---: | :---: |
-| [Snore](https://www.wikidex.net/wiki/Ronquido) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Electro Web](https://www.wikidex.net/wiki/Electrotela) | ![Tipo eléctrico](../../images/pokemon/tipos/tipo_electrico.png) |
-| [Bug Bite](https://www.wikidex.net/wiki/Picadura) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Tera Blast](https://www.wikidex.net/wiki/Teraexplosión) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | | |
-{% endtab %}
-{% endtabs %}
-
----
-
-## 2. Chryseil (Nº 2002)
-
-### Información
-
-**Chryseil** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[Siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la [Temporada Inicial]. Es la fase crisálida y de transición.
-
-| **Artwork** | ![Artwork de Chryseil](../../images/pokemon/hollownest/2.png) |
-| :---: | :--- |
-| **Tipos** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| **Habilidad** | [Swarm](https://www.wikidex.net/wiki/Enjambre)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
-| **Hab. oculta** | [Steadfast](https://www.wikidex.net/wiki/Impasible) |
-| **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho) |
-| **Evoluciona a** | Veskorn (Macho, Nv 32) / Silkorn (Hembra, Nv 32) |
-| **Creado por** | FuriadaNoite |
-
-### Descripción (Lore)
-Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa, un capullo donde ocurre un proceso imposible: la criatura fusona la seda primigenia recolectada de la oscuridad con la esencia pura del Vacío del Abismo. El resultado es una armadura natural, una 'Seda-Quitina' forjada de hebra y nada, que sirve como protección perfecta mientras evoluciona.
-
-### Características base
-
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 65 |
-| Ataque | 25 |
-| Defensa | 50 |
-| At. esp | 55 |
-| Def. esp | 60 |
-| Velocidad | 30 |
-| **Total** | **220** |
-
-### Movimientos
-
-{% tabs %}
-{% tab title="Por nivel (Adicionales)" %}
-| Nivel | Movimiento | Tipo |
-| :---: | :---: | :---: |
-| 15 | [Iron Defense](https://www.wikidex.net/wiki/Defensa_férrea) | ![Tipo acero](../../images/pokemon/tipos/tipo_acero.png) |
-| 18 | [Body Slam](https://www.wikidex.net/wiki/Golpe_cuerpo) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 25 | [Confuse Ray](https://www.wikidex.net/wiki/Rayo_confuso) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 27 | [Counter](https://www.wikidex.net/wiki/Contador) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 30 | [U-Turn](https://www.wikidex.net/wiki/Ida_y_vuelta) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-{% endtab %}
-
-{% tab title="MTs y Tutor (Selección)" %}
-| Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [Swords Dance](https://www.wikidex.net/wiki/Danza_espada) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Toxic](https://www.wikidex.net/wiki/Tóxico) | ![Tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) | [Pin Missile](https://www.wikidex.net/wiki/Pin_misil) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| [Earthquake](https://www.wikidex.net/wiki/Terremoto) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Earth Power](https://www.wikidex.net/wiki/Tierra_viva) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Protect](https://www.wikidex.net/wiki/Protección) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| [Reflect](https://www.wikidex.net/wiki/Reflejo) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Light Screen](https://www.wikidex.net/wiki/Pantalla_luz) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-{% endtab %}
-{% endtabs %}
-
----
-
-## 3. Veskorn (Nº 2003) - Forma Macho
-
-### Información
-
-**Veskorn** es un Pokémon de tipo [Siniestro](https://www.wikidex.net/wiki/Tipo_siniestro)/[fantasma](https://www.wikidex.net/wiki/Tipo_fantasma) introducido en la [Temporada Inicial]. Es la bifurcación masculina, especializada en Ataque Especial.
-
-| **Artwork** | ![Artwork de Veskorn](../../images/pokemon/hollownest/4.png) |
-| :---: | :--- |
-| **Tipos** | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| **Habilidades** | [Competitive](https://www.wikidex.net/wiki/Competitivo)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
-| **Hab. oculta** | [Mold Breaker](https://www.wikidex.net/wiki/Rompemoldes) |
-| **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
-| **Evoluciona de** | Chryseil (Nivel 32, Macho) |
-| **Creado por** | FuriadaNoite |
-
-### Descripción (Lore)
-Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que sacrifica su tamaño por un poder espectral. Su armadura de Seda-Quitina se oscurece, volviéndose quebradiza pero ligera. Armado con un 'aguijón' afilado—una extensión de su propia voluntad solidificada—, Veskorn es un cazador implacable que encarna la tenacidad y el silencio del Abismo. Se mueve sin sonido, un guardián de secretos oscuros.
-
-### Características base
-
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 70 |
-| Ataque | 60 |
-| Defensa | 85 |
-| At. esp | 125 |
+| PS | 107 |
+| Ataque | 135 |
+| Defensa | 80 |
+| At. esp | 70 |
 | Def. esp | 85 |
-| Velocidad | 95 |
-| **Total** | **540** |
+| Velocidad | 123 |
+| **Total** | **600** |
 
 ### Movimientos
 
 {% tabs %}
 {% tab title="Por nivel" %}
-| Nivel | Movimiento | Tipo | Nivel | Movimiento | Tipo |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 32 | [Ominous Wind](https://www.wikidex.net/wiki/Viento_Aciago) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | 52 | [Dark Pulse](https://www.wikidex.net/wiki/Pulso_Umbrio) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 36 | [Giga Drain](https://www.wikidex.net/wiki/Giga_Drenado) | ![Tipo planta](../../images/pokemon/tipos/tipo_planta.png) | 56 | [Hex](https://www.wikidex.net/wiki/Infortunio) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| 40 | [Pollen Puff](https://www.wikidex.net/wiki/Ráfaga_de_polen) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | 60 | [Psychic](https://www.wikidex.net/wiki/Psíquico) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 44 | [Destiny Bond](https://www.wikidex.net/wiki/Vínculo_Destino) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | 68 | [Calm Mind](https://www.wikidex.net/wiki/Paz_Mental) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| 48 | [Shadow Ball](https://www.wikidex.net/wiki/Bola_Sombra) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | 72 | [Bug Buzz](https://www.wikidex.net/wiki/Zumbido) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| Nivel | Movimiento | Tipo |
+| :---: | :---: | :---: |
+| 1 | [Leer](https://www.wikidex.net/wiki/Malicioso) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 1 | [Scratch](https://www.wikidex.net/wiki/Arañazo) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+| 12 | [Dragon Breath](https://www.wikidex.net/wiki/Dragoaliento) | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) |
+| 30 | [U-Turn](https://www.wikidex.net/wiki/Ida_y_vuelta) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| 42 | [First Impression](https://www.wikidex.net/wiki/Escaramuza) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| 48 | [Dragon Claw](https://www.wikidex.net/wiki/Garra_dragón) | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) |
+| 52 | **Abyssrend** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) |
+| 58 | [Outrage](https://www.wikidex.net/wiki/Enfado) | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) |
 {% endtab %}
 
 {% tab title="Movimientos Huevo" %}
 | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: |
-| [Shadow Sneak](https://www.wikidex.net/wiki/Sombra_Vil) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Sacred Sword](https://www.wikidex.net/wiki/Espada_Santa) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| [Will-O-Wisp](https://www.wikidex.net/wiki/Fuego_Fatuo) | ![Tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) | [Night Shade](https://www.wikidex.net/wiki/Tinieblas) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) |
-| [Memento](https://www.wikidex.net/wiki/Legado) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | | |
+| [Lunge](https://www.wikidex.net/wiki/Plancha) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Night Slash](https://www.wikidex.net/wiki/Tajo_noche) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
+| [Sucker Punch](https://www.wikidex.net/wiki/Golpe_bajo) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Sticky Web](https://www.wikidex.net/wiki/Red_pegajosa) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| [Dragon Rush](https://www.wikidex.net/wiki/Carga_dragón) | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) | | |
 {% endtab %}
 
 {% tab title="MTs y Tutor (Selección)" %}
 | Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Rage Powder](https://www.wikidex.net/wiki/Polvo_Ira) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Sticky Web](https://www.wikidex.net/wiki/Red_Pegajosa) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Energy Ball](https://www.wikidex.net/wiki/Energibola) | ![Tipo planta](../../images/pokemon/tipos/tipo_planta.png) |
-| [Shadow Claw](https://www.wikidex.net/wiki/Garra_Umbría) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Dazzling Gleam](https://www.wikidex.net/wiki/Brillo_Mágico) | ![Tipo hada](../../images/pokemon/tipos/tipo_hada.png) | [Mystical Fire](https://www.wikidex.net/wiki/Llama_Mística) | ![Tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| [Pain Split](https://www.wikidex.net/wiki/Divide_Dolor) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Trick](https://www.wikidex.net/wiki/Truco) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) | [Ally Switch](https://www.wikidex.net/wiki/Cambia_Fuerza) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Swords Dance](https://www.wikidex.net/wiki/Danza_espada) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_hierro) | ![Tipo acero](../../images/pokemon/tipos/tipo_acero.png) | [X-Scissor](https://www.wikidex.net/wiki/Tijera_X) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| [Draco Meteor](https://www.wikidex.net/wiki/Cometa_draco) | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) | [Crunch](https://www.wikidex.net/wiki/Triturar) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Tera Blast](https://www.wikidex.net/wiki/Teraexplosión) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 {% endtab %}
 {% endtabs %}
 
 ---
 
-## 4. Silkorn (Nº 2004) - Forma Hembra
+## 2. Mega-Abyssect (Nº 2006)
 
 ### Información
 
-**Silkorn** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_siniestro)/[lucha](https://www.wikidex.net/wiki/Tipo_lucha) introducido en la [Temporada Inicial]. Es la bifurcación femenina, especializada en Ataque Físico.
+**Mega-Abyssect** es la forma potenciada de Abyssect. Su peso aumenta considerablemente a 120.0 kg y su escala visual crece para imponer su dominio en combate.
 
-| **Artwork** | ![Artwork de Silkorn](../../images/pokemon/hollownest/3.png) |
+| **Artwork** | ![Artwork de Mega-Abyssect](../../images/pokemon/custom/abyssect_mega.png) |
 | :---: | :--- |
-| **Tipos** | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| **Habilidades** | [Defiant](https://www.wikidex.net/wiki/Competitivo)<br>[Unburden](https://www.wikidex.net/wiki/Liviano) |
-| **Hab. oculta** | [Sharpness](https://www.wikidex.net/wiki/Cortante) |
-| **Grupos Huevo** | [Bicho](https://www.wikidex.net/wiki/Grupo_bicho), [Humanoide](https://www.wikidex.net/wiki/Grupo_humanoide) |
-| **Evoluciona de** | Chryseil (Nivel 32, Hembra) |
-| **Creado por** | FuriadaNoite |
+| **Tipos** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| **Habilidad** | **Abyssalcore** |
+| **Hab. oculta** | **Abyssalcore** |
+| **Grupo Huevo** | [Bicho](https://www.wikidex.net/wiki/Tipo_bicho) / [Dragón](https://www.wikidex.net/wiki/Tipo_dragón) |
+| **Evoluciona de** | Abyssect (Megaevolución) |
+| **Creado por** | Universo Pokénet |
 
 ### Descripción (Lore)
-Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más alta y esbelta, Silkorn ha refinado la fusión, utilizando el Vacío solo como núcleo de poder mientras teje la Seda en una armadura ligera y flexible que permite una agilidad acrobática. Armada con una 'aguja' quitinosa, Silkorn no solo usa la seda; la comanda, lanzando hilos para moverse y atacar. No es un espectro silencioso, sino una bailarina orgullosa, una protectora de su territorio que danza en la oscuridad.
+Mega-Abyssect: La energía de la megaevolución ha sobrecargado su núcleo abisal, otorgándole una fuerza física capaz de desgarrar dimensiones. Su armadura de quitina se refuerza y sus alas vibran a una frecuencia que intimida a cualquier oponente, convirtiéndolo en el máximo exponente de su línea evolutiva.
 
 ### Características base
 
+Tras la megaevolución, sus [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) aumentan significativamente:
+
 | Estadística | Valor |
 | :---: | :---: |
-| PS | 70 |
-| Ataque | 125 |
-| Defensa | 60 |
-| At. esp | 80 |
-| Def. esp | 75 |
-| Velocidad | 110 |
-| **Total** | **541** |
+| PS | 107 |
+| Ataque | 165 |
+| Defensa | 100 |
+| At. esp | 90 |
+| Def. esp | 95 |
+| Velocidad | 143 |
+| **Total** | **700** |
 
 ### Movimientos
 
+*Mega-Abyssect mantiene el acceso a todos los movimientos de su forma base, potenciando su efectividad gracias a su incremento masivo en Ataque y Velocidad.*
+
 {% tabs %}
-{% tab title="Por nivel" %}
-| Nivel | Movimiento | Tipo | Nivel | Movimiento | Tipo |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 32 | [Pin Missile](https://www.wikidex.net/wiki/Pin_Misil) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | 56 | [Slash](https://www.wikidex.net/wiki/Cuchillada) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
-| 36 | [Bulk Up](https://www.wikidex.net/wiki/Corpulencia) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) | 64 | [Night Slash](https://www.wikidex.net/wiki/Tajo_Noche) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) |
-| 40 | [X-Scissor](https://www.wikidex.net/wiki/Tijera_X) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | 68 | [Fury Cutter](https://www.wikidex.net/wiki/Corte_Furia) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| 44 | [Aerial Ace](https://www.wikidex.net/wiki/Acróbata) | ![Tipo volador](../../images/pokemon/tipos/tipo_volador.png) | 72 | [Close Combat](https://www.wikidex.net/wiki/A_Bocajarro) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| 48 | [Cross Poison](https://www.wikidex.net/wiki/Veneno_X) | ![Tipo veneno](../../images/pokemon/tipos/tipo_veneno.png) | | | |
-| 52 | [Tidy Up](https://www.wikidex.net/wiki/Limpieza) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | | | |
-{% endtab %}
-
-{% tab title="Movimientos Huevo" %}
-| Movimiento | Tipo | Movimiento | Tipo |
-| :---: | :---: | :---: | :---: |
-| [Shadow Sneak](https://www.wikidex.net/wiki/Sombra_Vil) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Sacred Sword](https://www.wikidex.net/wiki/Espada_Santa) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) |
-| [Knock Off](https://www.wikidex.net/wiki/Desarme) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Bug Buzz](https://www.wikidex.net/wiki/Zumbido) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| [Shadow Ball](https://www.wikidex.net/wiki/Bola_Sombra) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | [Will-O-Wisp](https://www.wikidex.net/wiki/Fuego_Fatuo) | ![Tipo fuego](../../images/pokemon/tipos/tipo_fuego.png) |
-| [Night Shade](https://www.wikidex.net/wiki/Tinieblas) | ![Tipo fantasma](../../images/pokemon/tipos/tipo_fantasma.png) | | |
-{% endtab %}
-
-{% tab title="MTs y Tutor (Selección)" %}
-| Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [Knock Off](https://www.wikidex.net/wiki/Desarme) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [First Impression](https://www.wikidex.net/wiki/A_Primeras) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Mega Horn](https://www.wikidex.net/wiki/Megacuerno) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
-| [Drill Run](https://www.wikidex.net/wiki/Taladradora) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Superpower](https://www.wikidex.net/wiki/Superfuerza) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) | [Zen Headbutt](https://www.wikidex.net/wiki/Cabezazo_Zen) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
-| [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_Hierro) | ![Tipo acero](../../images/pokemon/tipos/tipo_acero.png) | [Throat Chop](https://www.wikidex.net/wiki/Golpe_Bajo) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Laser Focus](https://www.wikidex.net/wiki/Foco_Resplandor) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+{% tab title="Estrategia Mega" %}
+| Movimiento | Tipo | Descripción |
+| :---: | :---: | :--- |
+| **Abyssrend** | ![Tipo dragón](../../images/pokemon/tipos/tipo_dragon.png) | Movimiento característico potenciado por su nueva forma. |
+| **First Impression** | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | Ideal para golpear primero con una fuerza devastadora de 165 de Ataque base. |
+| **Swords Dance** | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) | Permite alcanzar niveles de daño insuperables en pocos turnos. |
 {% endtab %}
 {% endtabs %}
