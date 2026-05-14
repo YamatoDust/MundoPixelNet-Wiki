@@ -19,16 +19,16 @@ Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.
 
   | 🥈 Gratis | 🥇 Premium |
   | :----: | :----: |
-  | [🥈 Milotic Primordial](pase-milotic-primordial.md) | [🥇 Tsareena Estacional](pase-tsareena-estacional.md)  |
-  | [🥈 Braviary Fénix](pase-braviary-fenix.md) | [🥇 Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) |
-  |[🥈 Silvally Grifo](pase-silvally-grifo.md) | [🥇 Vulpix y Ninetales Fuerza Lunar](pase-vulpix-ninetales-espiritu-lunar.md) |
+  | [🥈 Gallade Link](pase-milotic-primordial.md) | [🥇 Gardevoir Zeldal](pase-tsareena-estacional.md)  |
+  | [🥈 Glalie Pacman](pase-braviary-fenix.md) | [🥇 Incineroar Ganondorf](pase-vulpix-ninetales-espiritu-lunar.md) |
+  |[🥈 Celebi Blossom](pase-silvally-grifo.md) | [🥇 Groudon Bowser](pase-vulpix-ninetales-espiritu-lunar.md) |
 
 ### 🗝️ Skins del Gatcha
 
 | 🗝️ Gatcha |
 | :---: |
-| [🗝️ Meowth y Persian Espectro Dorado](gatcha-meowth-persian-espectro-dorado.md) ![Sprite de Meowth Espectro Dorado](../../images/pokemon/temporada-1/espectrodorado1-sprite.png) ![Sprite de Persian Espectro Dorado](../../images/pokemon/temporada-1/espectrodorado2-sprite.png)|
-| [🗝️ Magikarp y Gyarados Leviathan](gatcha-magikarp-gyarados-leviathan.md) ![Sprite de Magikarp Leviathan](../../images/pokemon/temporada-1/leviathan1-sprite.png) ![Sprite de Gyarados Leviathan](../../images/pokemon/temporada-1/leviathan2-sprite.png)|
-| [🗝️ Kingambit Titan](gatcha-kingambit-titan.md) ![Sprite de Kingambit Titan](../../images/pokemon/temporada-1/titan-sprite.png)|
+| [🗝️ Garganacl Minecraft](gatcha-meowth-persian-espectro-dorado.md) |
+| [🗝️ Blaziken Ryu SF](gatcha-magikarp-gyarados-leviathan.md) |
+| [🗝️ Sandslash Crash](gatcha-kingambit-titan.md) |
 | [🗝️ Nihilego Luminarie](gatcha-nihilego-luminarie.md) ![Sprite de Nihilego Luminarie](../../images/pokemon/temporada-1/luminarie-sprite.png)|
 
