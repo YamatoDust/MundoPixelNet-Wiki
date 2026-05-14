@@ -30,5 +30,4 @@ Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.
 | [🗝️ Garganacl Minecraft](gatcha-meowth-persian-espectro-dorado.md) |
 | [🗝️ Blaziken Ryu SF](gatcha-magikarp-gyarados-leviathan.md) |
 | [🗝️ Sandslash Crash](gatcha-kingambit-titan.md) |
-| [🗝️ Nihilego Luminarie](gatcha-nihilego-luminarie.md) ![Sprite de Nihilego Luminarie](../../images/pokemon/temporada-1/luminarie-sprite.png)|
 
