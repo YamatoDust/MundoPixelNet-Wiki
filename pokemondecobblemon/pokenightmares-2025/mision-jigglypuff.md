@@ -4,7 +4,7 @@
 
 **Jigglypuff y Wigglytuff Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
-| **Artwork** | ![artwork noivern](../../images/pokemon/pokenightmares/Jigglypuff_nightmare.png) |                                    | :---: | :--- |                                                                      
+| **Artwork** | ![artwork noivern](../../images/pokemon/pokenightmares/Jigglypuff_nightmare.png) |                                    | :---: | :--- |                                                                    
 | Creado por | YamatoDust |                                                                                                          
 
 ### Comentario del desarrollador
