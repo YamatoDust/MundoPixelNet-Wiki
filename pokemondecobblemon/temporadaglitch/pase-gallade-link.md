@@ -4,7 +4,7 @@
 
 **Gallade Link** es una Skin exclusiva del servidor introducida en la [Temporada Glitch 👾 (1)](./).
 
-| **Artwork** | ![Artwork de gallade link](../../images/pokemon/temporadaglitch/gardevoir_zelda.png) |
+| **Artwork** | ![Artwork de gallade link](../../images/pokemon/temporadaglitch/gallade_link.png) |
 | :---: | :--- |
 | **Creado Por** | FuriadaNoite |
 
@@ -20,4 +20,4 @@ La creación de esta skin está basada en el famoso protagonista de la saga **Th
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 1 del [pase batalla] de la Temporada Glitch 👾
+Esta skin se puede obtener en el nivel 1 del pase gratuito de la Temporada Glitch 👾
