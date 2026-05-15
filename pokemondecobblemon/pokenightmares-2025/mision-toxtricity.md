@@ -4,11 +4,9 @@
 
 **Toxtricity Nigtmare** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork Toxtricity](../../images/pokemon/pokenightmares/Toxtricity_nigthmares.png)                                                          |                                                                                                             |
-|                      Creado por | YamatoDust                                                                                                                 |
-
+| **Artwork** | ![artwork Toxtricity](../../images/pokemon/pokenightmares/Toxtricity_nigthmares.png) |
+| :---: | :--- |
+| Creado por | YamatoDust |
 
 ### Comentario del desarrollador
 La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft** pero con la paleta de colores de la skin *Grimm*. 
