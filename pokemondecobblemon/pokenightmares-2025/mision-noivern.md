@@ -4,11 +4,9 @@
 
 **Noivern Warden x Grimm** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork noivern](../../images/pokemon/pokenightmares/noivern_umbral.png)                                                          |                                                                                                             |
-|                      Creado por | YamatoDust                                                                                                                 |
-
+| **Artwork** | ![artwork noivern](../../images/pokemon/pokenightmares/noivern_umbral.png) |                                          
+| :---: | :--- |
+| Creado por | YamatoDust |                                                                                                    
 
 ### Comentario del desarrollador
 La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft** pero con la paleta de colores de la skin *Grimm*. 
