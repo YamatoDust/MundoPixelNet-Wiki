@@ -5,6 +5,7 @@
 **Ursaning Freddy Fazbear** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
 |**Artwork** | ![artwork ursaning](../../images/pokemon/pokenightmares/Ursaning_Fazbear.png) |
+| :---: | :--- |
 | Creado por | YamatoDust |
 
 ### Comentario del desarrollador
