@@ -4,11 +4,9 @@
 
 **Ariados Hazbin** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork Ariados](../../images/pokemon/pokenightmares/Ariados_Hazbin.png)                                                          |                                                                                                             |
-|                      Creado por | FuriadaNoite                                                                                                                 |
-
+| **Artwork** | ![artwork Ariados](../../images/pokemon/pokenightmares/Ariados_Hazbin.png) |                                          
+| :---: | :--- |
+| Creado por | FuriadaNoite |                                                       
 
 ### Comentario del desarrollador
 La creación de esta skin hace referencia a uno personaje famoso *Angel Dust* de la serie **Hazbin Hotel**
