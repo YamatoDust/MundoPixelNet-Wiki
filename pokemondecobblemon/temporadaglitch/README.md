@@ -19,7 +19,7 @@ Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.
 
   | 🥈 Gratis | 🥇 Premium |
   | :----: | :----: |
-  | [🥈 Gallade Link](pase-milotic-primordial.md) | [🥇 Gardevoir Zeldal](pase-tsareena-estacional.md)  |
+  | [🥈 Gallade Link](pase-milotic-primordial.md) | [🥇 Gardevoir Zeldal](pase-gardevoir-zelda.md)  |
   | [🥈 Glalie Pacman](pase-braviary-fenix.md) | [🥇 Incineroar Ganondorf](pase-vulpix-ninetales-espiritu-lunar.md) |
   |[🥈 Celebi Blossom](pase-silvally-grifo.md) | [🥇 Groudon Bowser](pase-vulpix-ninetales-espiritu-lunar.md) |
 
