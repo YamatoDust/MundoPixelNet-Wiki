@@ -4,11 +4,10 @@
 
 **Buzzwole Warden** es una Skin exclusiva del servidor Cobblemon introducida en la [PokéNightmares](./).
 
-|||
-| ------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------- |
-|                      **Artwork** | ![artwork Buzzwole](../../images/pokemon/pokenightmares/Buzzwole_warden.png)                                                          |                                                                                                             |
-|                      Creado por | YamatoDust                                                                                                                 |
 
+| **Artwork** | ![artwork Buzzwole](../../images/pokemon/pokenightmares/Buzzwole_warden.png) |  
+| :---: | :--- |
+| Creado por | YamatoDust |                                                                                               
 
 ### Comentario del desarrollador
 La creación de esta skin hace referencia al un monstruo hostil ciego del juego **Minecraft**.
