@@ -16,7 +16,7 @@ La creación de esta skin está basada en la famosa personaje de la saga **The L
 
 ## Formas
 
-![Formas de Meloetta Faerie](../../images/pokemon/temporada-1/faerie-formas.png)
+![Formas de Meloetta Faerie](../../images/pokemon/temporadaglitch/linkyzelda_ingame.png)
 
 ## Obtención
 
