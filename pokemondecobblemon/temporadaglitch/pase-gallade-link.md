@@ -16,7 +16,7 @@ La creación de esta skin está basada en el famoso protagonista de la saga **Th
 
 ## Formas
 
-![Formas de Meloetta Faerie](../../images/pokemon/temporada-1/faerie-formas.png)
+![Formas de Meloetta Faerie](../../images/pokemon/temporada-1/linkyzelda_ingame.png)
 
 ## Obtención
 
