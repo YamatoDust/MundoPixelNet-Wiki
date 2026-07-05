@@ -12,8 +12,6 @@
 ### Comentario del desarrollador
 La creación de esta skin está basada en el famoso protagonista de la saga **The Legend Of Zelda.**
 
-## Formas
-
 ![Formas de Meloetta Faerie](../../images/pokemon/temporadaglitch/linkyzelda_ingame.png)
 
 ## Obtención
