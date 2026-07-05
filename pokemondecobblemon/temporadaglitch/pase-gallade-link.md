@@ -12,8 +12,6 @@
 ### Comentario del desarrollador
 La creación de esta skin está basada en el famoso protagonista de la saga **The Legend Of Zelda.**
 
-{% hint style="info" %} Esta skin, al igual que la versión original, puede cambiar de forma mediante el movimiento Canto arcaico.{% endhint %}
-
 ## Formas
 
 ![Formas de Meloetta Faerie](../../images/pokemon/temporadaglitch/linkyzelda_ingame.png)
