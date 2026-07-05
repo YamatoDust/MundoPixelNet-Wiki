@@ -4,7 +4,7 @@
 
 **Glalie Pacman** es una Skin exclusiva del servidor introducida en la [Temporada Glitch 👾 (1)](./).
 
-| **Artwork** | ![Artwork de glalie pacman](../../images/pokemon/temporadaglitch/gallade_link.png) |
+| **Artwork** | ![Artwork de glalie pacman](../../images/pokemon/temporadaglitch/pacman.png) |
 | :---: | :--- |
 | **Creado Por** | YamatoDust |
 
