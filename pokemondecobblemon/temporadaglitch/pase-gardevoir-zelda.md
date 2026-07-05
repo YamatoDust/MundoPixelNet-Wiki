@@ -16,4 +16,4 @@ La creación de esta skin está basada en la famosa personaje de la saga **The L
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 1 del [pase premium](https://tienda.universopokenet.com/category/pok%C3%A9mon-cobblemon) de la Temporada Glitch 👾
+Esta skin se puede obtener en el nivel 1 del [pase premium](https://tienda.universopokenet.com/category/pase-cobblemon) de la Temporada Glitch 👾
