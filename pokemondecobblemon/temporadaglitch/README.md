@@ -20,7 +20,7 @@ Esta Temporada se introduce al [**Pokémon Abyssect**](../../funciones/hibridos.
   | 🥈 Gratis | 🥇 Premium |
   | :----: | :----: |
   | [🥈 Gallade Link](pase-milotic-primordial.md) | [🥇 Gardevoir Zelda](pase-gardevoir-zelda.md)  |
-  | [🥈 Glalie Pacman](pokemondecobblemon/temporadaglitch/pase-glalie-pacman.md) | [🥇 Incineroar Ganondorf](pase-vulpix-ninetales-espiritu-lunar.md) |
+  | [🥈 Glalie Pacman](pase-glalie-pacman.md) | [🥇 Incineroar Ganondorf](pase-vulpix-ninetales-espiritu-lunar.md) |
   |[🥈 Celebi Blossom](pase-silvally-grifo.md) | [🥇 Groudon Bowser](pase-vulpix-ninetales-espiritu-lunar.md) |
 
 ### 🗝️ Skins del Gatcha
