@@ -16,4 +16,4 @@ La creación de esta skin está basada en el famoso protagonista de la saga **Th
 
 ## Obtención
 
-Esta skin se puede obtener en el nivel 1 del pase gratuito de la Temporada Glitch 👾
+Esta skin se puede obtener en el nivel 1 del [pase gratuito](https://tienda.universopokenet.com/category/pase-cobblemon) de la Temporada Glitch 👾
