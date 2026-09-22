@@ -32,7 +32,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **At. Esp** | **40** | `████░░░░░░` |
 | **Def. Esp** | **25** | `██░░░░░░░░` |
 | **Velocidad** | **50** | `█████░░░░░` |
-| **TOTAL** | **202** | |
+| **TOTAL** |        **202**            |
 
 ### Movimientos
 
