@@ -24,15 +24,15 @@ Glowmite: La primera y más elemental de estas manifestaciones, se cree que es u
 
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Glowmite son las siguientes:
 
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 30 |
-| Ataque | 25 |
-| Defensa | 30 |
-| At. esp | 40 |
-| Def. esp | 25 |
-| Velocidad | 50 |
-| **Total** | **202** |
+| Estadística | Valor | Representación Visual |
+| :--- | :---: | :--- |
+| **PS** | **30** | ███░░░░░░░ |
+| **Ataque** | **25** | ██░░░░░░░░ |
+| **Defensa** | **30** | ███░░░░░░░ |
+| **At. esp** | **40** | ████░░░░░░ |
+| **Def. esp** | **25** | ██░░░░░░░░ |
+| **Velocidad** | **50** | █████░░░░░ |
+| **TOTAL** | **202** | |
 
 ### Movimientos
 
@@ -79,15 +79,15 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 
 ### Características base
 
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 65 |
-| Ataque | 25 |
-| Defensa | 50 |
-| At. esp | 55 |
-| Def. esp | 60 |
-| Velocidad | 30 |
-| **Total** | **220** |
+| Estadística | Valor | Representación Visual |
+| :--- | :---: | :--- |
+| **PS** | **65** | ██████░░░░ |
+| **Ataque** | **25** | ██░░░░░░░░ |
+| **Defensa** | **50** | █████░░░░░ |
+| **At. esp** | **55** | █████░░░░░ |
+| **Def. esp** | **60** | ██████░░░░ |
+| **Velocidad** | **30** | ███░░░░░░░ |
+| **TOTAL** | **220** | |
 
 ### Movimientos
 
@@ -133,15 +133,15 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 
 ### Características base
 
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 70 |
-| Ataque | 60 |
-| Defensa | 85 |
-| At. esp | 125 |
-| Def. esp | 85 |
-| Velocidad | 95 |
-| **Total** | **540** |
+| Estadística | Valor | Representación Visual |
+| :--- | :---: | :--- |
+| **PS** | **70** | ██████░░░░ |
+| **Ataque** | **60** | █████░░░░░ |
+| **Defensa** | **85** | ███████░░░ |
+| **At. esp** | **125** | ███████████ |
+| **Def. esp** | **85** | ███████░░░ |
+| **Velocidad** | **95** | ████████░░ |
+| **TOTAL** | **540** | 🔮 **Especial / Espectral** |
 
 ### Movimientos
 
@@ -195,15 +195,15 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 
 ### Características base
 
-| Estadística | Valor |
-| :---: | :---: |
-| PS | 70 |
-| Ataque | 125 |
-| Defensa | 60 |
-| At. esp | 80 |
-| Def. esp | 75 |
-| Velocidad | 110 |
-| **Total** | **541** |
+| Estadística | Valor | Representación Visual |
+| :--- | :---: | :--- |
+| **PS** | **70** | ██████░░░░ |
+| **Ataque** | **125** | ███████████ |
+| **Defensa** | **60** | █████░░░░░ |
+| **At. esp** | **80** | ██████░░░░ |
+| **Def. esp** | **75** | ██████░░░░ |
+| **Velocidad** | **110** | ██████████ |
+| **TOTAL** | **541** | ⚔️ **Físico / Letal** |
 
 ### Movimientos
 
@@ -232,6 +232,10 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 | Movimiento | Tipo | Movimiento | Tipo | Movimiento | Tipo |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Knock Off](https://www.wikidex.net/wiki/Desarme) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [First Impression](https://www.wikidex.net/wiki/A_Primeras) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) | [Mega Horn](https://www.wikidex.net/wiki/Megacuerno) | ![Tipo bicho](../../images/pokemon/tipos/tipo_bicho.png) |
+| [Drill Run](https://www.wikidex.net/wiki/Taladradora) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Superpower](https://www.wikidex.net/wiki/Superfuerza) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) | [Zen Headbutt](https://www.wikidex.net/wiki/Cabezazo_Zen) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
+| [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_Hierro) | ![Tipo acero](../../images/pokemon/tipos/tipo_acero.png) | [Throat Chop](https://www.wikidex.net/wiki/Golpe_Bajo) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Laser Focus](https://www.wikidex.net/wiki/Foco_Resplandor) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
+{% endtab %}
+{% endtabs %}o bicho](../../images/pokemon/tipos/tipo_bicho.png) |
 | [Drill Run](https://www.wikidex.net/wiki/Taladradora) | ![Tipo tierra](../../images/pokemon/tipos/tipo_tierra.png) | [Superpower](https://www.wikidex.net/wiki/Superfuerza) | ![Tipo lucha](../../images/pokemon/tipos/tipo_lucha.png) | [Zen Headbutt](https://www.wikidex.net/wiki/Cabezazo_Zen) | ![Tipo psiquico](../../images/pokemon/tipos/tipo_psiquico.png) |
 | [Iron Head](https://www.wikidex.net/wiki/Cabeza_de_Hierro) | ![Tipo acero](../../images/pokemon/tipos/tipo_acero.png) | [Throat Chop](https://www.wikidex.net/wiki/Golpe_Bajo) | ![Tipo siniestro](../../images/pokemon/tipos/tipo_siniestro.png) | [Laser Focus](https://www.wikidex.net/wiki/Foco_Resplandor) | ![Tipo normal](../../images/pokemon/tipos/tipo_normal.png) |
 {% endtab %}
