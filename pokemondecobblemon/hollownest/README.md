@@ -4,6 +4,12 @@
 
 ## 1. Glowmite (Nº 2001)
 
+### Inf# 🐛 Línea Evolutiva: Silkorn y verskorn
+
+---
+
+## 1. Glowmite (Nº 2001)
+
 ### Información
 
 **Glowmite** es un Pokémon de tipo [bicho](https://www.wikidex.net/wiki/Tipo_bicho)/[Siniestro](https://www.wikidex.net/wiki/Tipo_siniestro) introducido en la [Temporada Inicial]. Es la fase larval de la línea evolutiva.
@@ -32,7 +38,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **At. Esp** | **40** | `████░░░░░░` |
 | **Def. Esp** | **25** | `██░░░░░░░░` |
 | **Velocidad** | **50** | `█████░░░░░` |
-| **TOTAL** |        **202**            |
+| **TOTAL** | < colspan="2" align="center">**202** |
 
 ### Movimientos
 
@@ -87,7 +93,7 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 | **At. Esp** | **55** | `█████░░░░░` |
 | **Def. Esp** | **60** | `██████░░░░` |
 | **Velocidad** | **30** | `███░░░░░░░` |
-| **TOTAL** | **220** | |
+| **TOTAL** | < colspan="2" align="center">**220** |
 
 ### Movimientos
 
@@ -141,7 +147,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 | **At. Esp** | **125** | `███████████` |
 | **Def. Esp** | **85** | `███████░░░` |
 | **Velocidad** | **95** | `████████░░` |
-| **TOTAL** | **540** | |
+| **TOTAL** | < colspan="2" align="center">**540** |
 
 ### Movimientos
 
@@ -203,7 +209,7 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 | **At. Esp** | **80** | `██████░░░░` |
 | **Def. Esp** | **75** | `██████░░░░` |
 | **Velocidad** | **110** | `██████████` |
-| **TOTAL** | **541** | |
+| **TOTAL** | < colspan="2" align="center">**541** |
 
 ### Movimientos
 
