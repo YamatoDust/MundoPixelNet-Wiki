@@ -32,7 +32,7 @@ Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) d
 | **At. Esp** | **40** | `████░░░░░░` |
 | **Def. Esp** | **25** | `██░░░░░░░░` |
 | **Velocidad** | **50** | `█████░░░░░` |
-| **TOTAL** | **202** | **———** |
+| **TOTAL** | **202** | |
 
 ### Movimientos
 
@@ -87,7 +87,7 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 | **At. Esp** | **55** | `█████░░░░░` |
 | **Def. Esp** | **60** | `██████░░░░` |
 | **Velocidad** | **30** | `███░░░░░░░` |
-| **TOTAL** | **220** | **———** |
+| **TOTAL** | **220** | |
 
 ### Movimientos
 
@@ -141,7 +141,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 | **At. Esp** | **125** | `███████████` |
 | **Def. Esp** | **85** | `███████░░░` |
 | **Velocidad** | **95** | `████████░░` |
-| **TOTAL** | **540** | **———** |
+| **TOTAL** | **540** | |
 
 ### Movimientos
 
@@ -203,7 +203,7 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 | **At. Esp** | **80** | `██████░░░░` |
 | **Def. Esp** | **75** | `██████░░░░` |
 | **Velocidad** | **110** | `██████████` |
-| **TOTAL** | **541** | **———** |
+| **TOTAL** | **541** | |
 
 ### Movimientos
 
