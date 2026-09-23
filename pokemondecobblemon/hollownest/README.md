@@ -25,7 +25,7 @@ Glowmite: La primera y más elemental de estas manifestaciones, se cree que es u
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Glowmite son las siguientes:
 
 | Estadística | Valor y Distribución |
-| :--- | :--- |
+| :--- | :---: |
 | **PS** | **30** `███░░░░░░░` |
 | **Ataque** | **25** `██░░░░░░░░` |
 | **Defensa** | **30** `███░░░░░░░` |
@@ -82,7 +82,7 @@ Chryseil: Esta forma no es una solidificación pasiva. Es una crisálida activa,
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Chryseil son las siguientes:
 
 | Estadística | Valor y Distribución |
-| :--- | :--- |
+| :--- | :---: |
 | **PS** | **65** `██████░░░░` |
 | **Ataque** | **25** `██░░░░░░░░` |
 | **Defensa** | **50** `█████░░░░░` |
@@ -138,7 +138,7 @@ Veskorn: Este ser es un receptáculo de pura sombra, un cascarón silencioso que
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Veskorn son las siguientes:
 
 | Estadística | Valor y Distribución |
-| :--- | :--- |
+| :--- | :---: |
 | **PS** | **70** `██████░░░░` |
 | **Ataque** | **60** `█████░░░░░` |
 | **Defensa** | **85** `███████░░░` |
@@ -202,7 +202,7 @@ Silkorn: Esta forma es la encarnación de la destreza y la gracia letal. Más al
 Las [características base](https://www.wikidex.net/wiki/Caracter%C3%ADsticas) de Silkorn son las siguientes:
 
 | Estadística | Valor y Distribución |
-| :--- | :--- |
+| :--- | :---: |
 | **PS** | **70** `██████░░░░` |
 | **Ataque** | **125** `███████████` |
 | **Defensa** | **60** `█████░░░░░` |
