@@ -2,8 +2,6 @@
 
 En **[Universo PokéNet](../README.md)** contamos con un equipo especializado para garantizar la mejor experiencia dentro del servidor. A continuación, puedes consultar los integrantes de nuestro equipo, sus roles y rangos.
 
----
-
 # ![Dueño](../images/Rangos/Dios/diosarc.png) Dueño
 
 > **La absoluta autoridad del servidor, encargado de la gestión general, visión estratégica y decisiones finales del servidor.**
