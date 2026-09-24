@@ -32,8 +32,11 @@ El rango Helper tiene la función de ayudar con dudas y responder preguntas para
 | Skin | Usuario |
 | :--: | :-----: |
 | ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**Trolendo**|
-| ![Skin de Azumi19](../images/Rangos/Helper/azumi2.png)|**Azumi19**|
 | ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**Ikaros_YT**|
+| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**IMarioCrack**|
+| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**Morcant_**|
+| ![Skin de yThmks_](../images/Rangos/Staff/ythmx.png)|**yThmks_**|
+| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**TRANSLATOR**|
 
 # ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
 El rango Developer tiene la función de programar los complementos y bots del servidor, haciéndolo aún más único y original.
