@@ -1,70 +1,98 @@
-# 🛠️ Staffs
+# 🛠️ Equipo de Staff — Universo PokéNet
 
-En [Universo PokéNet](../README.md) tenemos algunos rangos específicos para cada tarea, en la lista a continuación tendremos qué hace cada uno y quién ocupa actualmente ese rango.
+En **[Universo PokéNet](../README.md)** contamos con un equipo especializado para garantizar la mejor experiencia dentro del servidor. A continuación, puedes consultar los integrantes de nuestro equipo, sus roles y sus responsabilidades.
 
-# ![Dueño](../images/Rangos/Dios/diosarc.png) **Dueño**
-El rango dueño tiene la autoridad absoluta del servidor y la cabeza princpial en todas las deciciones finales.
-| Skin | Usuario |
-| :--: | :-----: |
-| ![Skin de PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png)|**PokeSantiTW**|
+---
 
-# ![Admin](../images/Rangos/Admin/adminArc.png) **Administrador**
-El rango Administrador tiene la máxima autoridad sobre el servidor, pudiendo tomar decisiones importantes.
-| Skin | Usuario |
-| :--: | :-----: |
-| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
-| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
-| ![Skin de Mai_075](../images/Rangos/Staff/mai.png)|**Mai_075**|
-| ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
+## 👑 Dueño
 
-# ![Moderador](../images/Rangos/Mod/modarc.png) **Moderador**
-El rango Moderador tiene el poder de aplicar sanciones y controlar cosas para mantener el correcto funcionamiento del servidor.
-| Skin | Usuario |
-| :--: | :-----: |
-| ![Skin de Juniorcx](../images/Rangos/Mod/JuniorCX.png)|**Juniorcx**|
-| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
-| ![Skin de teyu_31](../images/Rangos/Helper/Teyu.png)|**Teyu_31**|
-| ![Skin de RivalSilver97](../images/Rangos/Admin/RivalSilver97.png)|**RivalSilver97**|
+> **Encargado de la gestión general, visión estratégica y decisiones finales del servidor.**
 
-# ![Helper](../images/Rangos/Helper/helperarc.png) **Helper**
-El rango Helper tiene la función de ayudar con dudas y responder preguntas para mantener la mejor jugabilidad del usuario.
-| Skin | Usuario |
-| :--: | :-----: |
-| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**Trolendo**|
-| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**Ikaros_YT**|
-| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**IMarioCrack**|
-| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**Morcant_**|
-| ![Skin de yThmks_](../images/Rangos/Staff/ythmx.png)|**yThmks_**|
-| ![Skin de teyu_31](../images/Rangos/Dev/Steve.png)|**TRANSLATOR**|
+| Avatar | Nick | Cargo | Responsabilidad Principal |
+| :---: | :--- | :---: | :--- |
+| ![PokeSantiTW](../images/Rangos/Dios/PokeSantiTW.png) | **PokeSantiTW** | `Dueño` | Autoridad absoluta y dirección del proyecto. |
 
-# ![Dev](../images/Rangos/Dev/devarc.png) **Developer**
-El rango Developer tiene la función de programar los complementos y bots del servidor, haciéndolo aún más único y original.
-| Skin | Usuario |
-| :--: | :-----: |
-| ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
-| ![Skin de Cheminsky](../images/Rangos/Dev/Steve.png)|**Cheminsky**|
-| ![Skin de MiNombreEsVaro](../images/Rangos/Staff/varo.png)|**MiNombreEsVaro**|
-| ![Skin de raptor654](../images/Rangos/Staff/raptor.png)|**raptor654**|
+---
 
-# 🧱 **Builder**
-El rango Builder tiene la función de construir los mapas del servidor, ya sea para una misión o cualquier cosa nueva que implique construcción
-| Skin | Usuario |
-| :--: | :-----: |
-| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
-| ![Skin de Trolendo](../images/Rangos/Dev/Steve.png)|**Trolendo**|
-| ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
-| ![Skin de ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png)|**ITSFrankoGG**|
-| ![Skin de Mai_075](../images/Rangos/Staff/mai.png)|**Mai_075**|
-| ![Skin de Arii](../images/Rangos/Builder/ari.png)|**Arii**|
-| ![Skin de yThmks_](../images/Rangos/Staff/ythmx.png)|**yThmks_**|
+## ⚡ Administradores
 
-# 🖌️**Equipo Creativo**
-El rango Equipo Creativo tiene la función creativa de crear skins, modelos, armaduras, dibujos etc... del servidor, ya sea para una temporada o cualquier contenido nuevo.
-| Skin | Usuario |
-| :--: | :-----: |
-| ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
-| ![Skin de Mai_075](../images/Rangos/Staff/mai.png)|**Mai_075**|
-| ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
-| ![Skin de EnzuoGa](../images/Rangos/Staff/enzo.png)|**EnzuoGa**|
-| ![Skin de rowlex](../images/Rangos/Staff/rowlexad.png)|**rowlex**|
-| ![Skin de raptor654](../images/Rangos/Staff/raptor.png)|**raptor654**|
+> **Máxima autoridad operativa sobre el servidor, responsables de la toma de decisiones clave.**
+
+| Avatar | Nick | Cargo | Responsabilidad Principal |
+| :---: | :--- | :---: | :--- |
+| ![YamatoDust](../images/Rangos/Mod/YamatoDust.png) | **YamatoDust** | `Admin` | Gestión operativa y supervisión general. |
+| ![xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | **xFuriadaNoitex** | `Admin` | Gestión estratégica y control de área. |
+| ![Mai_075](../images/Rangos/Staff/mai.png) | **Mai_075** | `Admin` | Coordinación de equipo y soporte superior. |
+| ![Gamertito](../images/Rangos/Mod/Gametito.png) | **Gamertito** | `Admin` | Control de modalidades y administración. |
+
+---
+
+## 🛡️ Moderadores
+
+> **Encargados de mantener el orden, aplicar sanciones y asegurar la armonía en la comunidad.**
+
+| Avatar | Nick | Cargo | Responsabilidad Principal |
+| :---: | :--- | :---: | :--- |
+| ![Juniorcx](../images/Rangos/Mod/JuniorCX.png) | **Juniorcx** | `Moderador` | Moderación del chat y aplicación de sanciones. |
+| ![ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | **ITSFrankoGG** | `Moderador` | Control de normas y asistencia en juego. |
+| ![Teyu_31](../images/Rangos/Helper/Teyu.png) | **Teyu_31** | `Moderador` | Supervisión de jugadores y reporte de faltas. |
+| ![RivalSilver97](../images/Rangos/Admin/RivalSilver97.png) | **RivalSilver97** | `Moderador` | Mantenimiento de la paz y sanción de infractores. |
+
+---
+
+## 🤝 Helpers
+
+> **Soporte directo a la comunidad: resolución de dudas, guía e inicio para nuevos jugadores.**
+
+| Avatar | Nick | Cargo | Responsabilidad Principal |
+| :---: | :--- | :---: | :--- |
+| ![Trolendo](../images/Rangos/Dev/Steve.png) | **Trolendo** | `Helper` | Atención a dudas frecuentes y soporte general. |
+| ![Ikaros_YT](../images/Rangos/Dev/Steve.png) | **Ikaros_YT** | `Helper` | Guía de usuarios y orientación en el servidor. |
+| ![IMarioCrack](../images/Rangos/Dev/Steve.png) | **IMarioCrack** | `Helper` | Asistencia y resolución de problemas comunes. |
+| ![Morcant_](../images/Rangos/Dev/Steve.png) | **Morcant_** | `Helper` | Soporte directo en chat y tickets. |
+| ![yThmks_](../images/Rangos/Staff/ythmx.png) | **yThmks_** | `Helper` | Orientación sobre mecánicas y modalidades. |
+| ![TRANSLATOR](../images/Rangos/Dev/Steve.png) | **TRANSLATOR** | `Helper` | Traductores y soporte para la comunidad global. |
+
+---
+
+## 💻 Developers
+
+> **Ingenieros del servidor: programación de plugins, bots e integración de nuevas mecánicas.**
+
+| Avatar | Nick | Cargo | Responsabilidad Principal |
+| :---: | :--- | :---: | :--- |
+| ![Marukuz](../images/Rangos/Admin/Marukuz.png) | **Marukuz** | `Developer` | Desarrollo principal de sistemas y backend. |
+| ![Cheminsky](../images/Rangos/Dev/Steve.png) | **Cheminsky** | `Developer` | Programación y optimización de bots/plugins. |
+| ![MiNombreEsVaro](../images/Rangos/Staff/varo.png) | **MiNombreEsVaro** | `Developer` | Corrección de errores y nuevas utilidades. |
+| ![raptor654](../images/Rangos/Staff/raptor.png) | **raptor654** | `Developer` | Implementación de sistemas e infraestructura. |
+
+---
+
+## 🧱 Builders
+
+> **Arquitectos de PokéNet: construcción de mapas, spawns, zonas de misiones y eventos.**
+
+| Avatar | Nick | Cargo | Responsabilidad Principal |
+| :---: | :--- | :---: | :--- |
+| ![xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | **xFuriadaNoitex** | `Builder` | Diseño y estructura de zonas temáticas. |
+| ![Trolendo](../images/Rangos/Dev/Steve.png) | **Trolendo** | `Builder` | Construcción de mapas y terrenos. |
+| ![Gamertito](../images/Rangos/Mod/Gametito.png) | **Gamertito** | `Builder` | Montaje de estructuras y decoraciones. |
+| ![ITSFrankoGG](../images/Rangos/Mod/ITSFrankoGG.png) | **ITSFrankoGG** | `Builder` | Creación de zonas para eventos y misiones. |
+| ![Mai_075](../images/Rangos/Staff/mai.png) | **Mai_075** | `Builder` | Detallado y diseño de interiores/exteriores. |
+| ![Arii](../images/Rangos/Builder/ari.png) | **Arii** | `Builder` | Ambientación y mapas especiales. |
+| ![yThmks_](../images/Rangos/Staff/ythmx.png) | **yThmks_** | `Builder` | Apoyo en proyectos arquitectónicos. |
+
+---
+
+## 🎨 Equipo Creativo
+
+> **Artistas visuales: creación de texturas, modelos 3D, skins, armaduras y arte promocional.**
+
+| Avatar | Nick | Cargo | Responsabilidad Principal |
+| :---: | :--- | :---: | :--- |
+| ![xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png) | **xFuriadaNoitex** | `Creativo` | Dirección de arte y diseño de conceptos. |
+| ![Mai_075](../images/Rangos/Staff/mai.png) | **Mai_075** | `Creativo` | Ilustración y diseño gráfico general. |
+| ![YamatoDust](../images/Rangos/Mod/YamatoDust.png) | **YamatoDust** | `Creativo` | Modelado 3D de ítems y cosméticos. |
+| ![EnzuoGa](../images/Rangos/Staff/enzo.png) | **EnzuoGa** | `Creativo` | Creación de skins y texturas para temporadas. |
+| ![rowlex](../images/Rangos/Staff/rowlexad.png) | **rowlex** | `Creativo` | Diseño de armaduras y modelos especiales. |
+| ![raptor654](../images/Rangos/Staff/raptor.png) | **raptor654** | `Creativo` | Apoyo visual y assets multimedia. |
