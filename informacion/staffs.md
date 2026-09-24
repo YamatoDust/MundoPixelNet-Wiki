@@ -14,7 +14,6 @@ El rango Administrador tiene la máxima autoridad sobre el servidor, pudiendo to
 | :--: | :-----: |
 | ![Skin de YamatoDust](../images/Rangos/Mod/YamatoDust.png)|**YamatoDust**|
 | ![Skin de xFuriadaNoitex](../images/Rangos/Dios/xFuriadaNoitex.png)|**xFuriadaNoitex**|
-| ![Skin de Marukuz](../images/Rangos/Admin/Marukuz.png)|**Marukuz**|
 | ![Skin de Mai_075](../images/Rangos/Staff/mai.png)|**Mai_075**|
 | ![Skin de Gamertito](../images/Rangos/Mod/Gametito.png)|**Gamertito**|
 
