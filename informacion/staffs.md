@@ -6,7 +6,7 @@ En **[Universo PokéNet](../README.md)** contamos con un equipo especializado pa
 
 # ![Dueño](../images/Rangos/Dios/diosarc.png) Dueño
 
-> **Encargado de la gestión general, visión estratégica y decisiones finales del servidor.**
+> **La absoluta autoridad del servidor, encargado de la gestión general, visión estratégica y decisiones finales del servidor.**
 
 | Avatar | Nick | Cargo |
 | :---: | :--- | :---: |
